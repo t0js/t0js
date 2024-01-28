@@ -10,4 +10,4 @@
 
 
 [![GitHub](https://github-readme-streak-stats.herokuapp.com?user=8gpy&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
-[![Discord](https://lanyard.cnrad.dev/api/1135140769775235154)](https://discord.com/users/1135140769775235154)
+[![Discord](https://lanyard.cnrad.dev/api/929005830228017213)](https://discord.com/users/929005830228017213)
